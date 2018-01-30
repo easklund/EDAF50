@@ -1,6 +1,8 @@
 #include <iostream>
 #include "list.h"
 
+using namespace std;
+
 List::List() {
 	first = nullptr;
 }
@@ -114,14 +116,16 @@ void List::remove(int d, DeleteFlag df) {
 void List::print() const {
 	if(first != nullptr){
 		Node* n = first;
-		std::cout << "[";
+		cout << "[";
 		while(n != nullptr){
-			std::cout << n->value;
-			std::cout << ", ";
+			cout << n->value;
+			if(n->next != nullptr){
+			cout << ", ";
+			}
 			n = n->next;
 		}
-		std::cout << "]"<< std:: endl;
+		cout << "]";
 	}else{
-		std::cout << "[]" << std::endl;
+		cout << "[List is empty]";
 	}
 }
