@@ -65,11 +65,13 @@ void List::remove(int d, DeleteFlag df) {
 		if(df == DeleteFlag::LESS){
 			if(first->value < d){
 				first = n;
+				delete(pre);
 				return;
 			}
 			while(n != nullptr){
 				if(n->value < d){
 					pre = n->next;
+					delete(n);
 					return;
 				}
 				n = n->next;
@@ -78,11 +80,13 @@ void List::remove(int d, DeleteFlag df) {
 		}else if(df == DeleteFlag::EQUAL){
 			if(first->value == d){
 				first = n;
+				delete(pre);
 				return;
 			}
 			while(n != nullptr){
 				if(n->value == d){
 					pre = n->next;
+					delete(n);
 					return;
 				}
 				n = n->next;
@@ -91,11 +95,13 @@ void List::remove(int d, DeleteFlag df) {
 		}else {
 			if(first->value > d){
 				first = n;
+				delete(pre);
 				return;
 			}
 			while(n != nullptr){
 				if(n->value > d){
 					pre->next = n->next;
+					delete(n);
 					return;
 				}
 				n = n->next;
