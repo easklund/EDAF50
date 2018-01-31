@@ -24,11 +24,8 @@ int main(int argc, char** argv)
     while ( getline (myfile,line) )
     {
       enc << encode_string(line);
-      // cout << line << '\n';
-      // string encoded = encode_string(line);
-      // cout << encoded << endl;
     }
-    myfile.close();
+    myfile.close(); // behövs inte, string gör det själv när man stänger ner programmet
     enc.close();
   }
   else cout << "Unable to open file";

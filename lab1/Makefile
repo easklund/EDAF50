@@ -26,7 +26,14 @@ LDFLAGS += -L.
 PROGS =  hello ltest test_coding print_argv encode decode
 
 all: $(PROGS)
+liblab1.a: list.o
+	ar crv $@.a $^
 
+ltest: liblab1.a
+
+encode: coding.o
+decode: coding.o
+test_coding: coding.o
 # test: test_coding
 # 	./test_coding
 # Targets rely on implicit rules for compiling and linking

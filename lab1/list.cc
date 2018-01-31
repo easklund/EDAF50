@@ -5,6 +5,7 @@ using namespace std;
 
 List::List() {
 	first = nullptr;
+	cout << "Made list" << endl;
 }
 
 List::~List() {
