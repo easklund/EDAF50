@@ -90,16 +90,16 @@ void Dictionary::rank_suggestions(std::vector<std::string>& suggestions, const s
 		}
 
 		for (int j=1;j<=m;j++) {
-      	 	for(int i=1;i<=n;i++) {
-            	if(s[i-1] == word[j-1]) {
-                	tracker = 0;
-            	} else {
-                	tracker = 1;
-            	}
-            	temp = min((d[i-1][j]+1),(d[i][j-1]+1));
-           		d[i][j] = min(temp,(d[i-1][j-1]+tracker));
-       		}
-    	}
+			for(int i=1;i<=n;i++) {
+				if(s[i-1] == word[j-1]){
+					tracker = 0;
+				} else {
+					tracker = 1;
+				}
+				temp = min((d[i-1][j]+1),(d[i][j-1]+1));
+				d[i][j] = min(temp,(d[i-1][j-1]+tracker));
+			}
+		}
     	sugg_pairs.push_back(make_pair(d[n][m], s));
 	}
 	// sortera sugg_pairs
