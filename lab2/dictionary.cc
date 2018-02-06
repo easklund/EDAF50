@@ -43,20 +43,27 @@ bool Dictionary::contains(const string& word) const {
 
 vector<string> Dictionary::get_suggestions(const string& word) const {
 	vector<string> suggestions;
-	// add_trigram_suggestions(suggestions, word);
+	add_trigram_suggestions(suggestions, word);
 	// rank_suggestions(suggestions, word);
 	// trim_suggestions(suggestions);
 	return suggestions;
 }
 
-void Dictionary::add_trigram_suggestions(std::vector<std::string>& suggestions, std::string& word) const {
+void Dictionary::add_trigram_suggestions(std::vector<std::string>& suggestions, const string& word) const {
 	int length = word.length();
 	int stay = (word.length() - 2) / 2;
 	if(length > 2){
+		vector<string> trigrams (length-2);
+		for(unsigned int i = 0; i < length-2; i++){
+			stringstream temptri;
+			temptri << word.at(i) << word.at(i+1) << word.at(i+2);
+			trigrams[i] = temptri.str();
+		}
+		sort(trigrams.begin(), trigrams.end());
 		for(int i = length - 2; i < length + 1; i++){
 			for(int j = 0; j < words[i].size(); j++){
 				Word w = words[i][j];
-				if(w.get_matches(word.) >= stay){
+				if(w.get_matches(trigrams) >= stay){
 					suggestions.push_back(w.get_word());
 				}
 			}
