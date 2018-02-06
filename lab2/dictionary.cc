@@ -13,7 +13,7 @@ using std::unordered_set;
 using std::ifstream;
 using std::cout;
 
-unordered_set<string> words;
+
 
 Dictionary::Dictionary() {
 	words = unordered_set<string>();
