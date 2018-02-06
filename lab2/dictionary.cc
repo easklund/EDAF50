@@ -25,9 +25,10 @@ Dictionary::Dictionary() {
 		stringstream ss(line);
 		ss >> wordline;
 		word = wordline;
-		words_set.insert(wordline);
+		words_set.insert(word);
 		ss >> wordline;
 		while(ss >> wordline){
+			//cout << wordline << " ";
 			trigrams.push_back(wordline);
 		}
 		words[word.length()].push_back(Word(word, trigrams));
@@ -51,18 +52,18 @@ vector<string> Dictionary::get_suggestions(const string& word) const {
 
 void Dictionary::add_trigram_suggestions(std::vector<std::string>& suggestions, const string& word) const {
 	int length = word.length();
-	int stay = (word.length() - 2) / 2;
+	unsigned int stay = (word.length() - 2) / 2;
 	if(length > 2){
 		vector<string> trigrams (length-2);
-		for(unsigned int i = 0; i < length-2; i++){
+		for(int i = 0; i < length-2; i++){
 			stringstream temptri;
 			temptri << word.at(i) << word.at(i+1) << word.at(i+2);
 			trigrams[i] = temptri.str();
+			cout << " " << temptri.str();
 		}
 		sort(trigrams.begin(), trigrams.end());
-		for(int i = length - 2; i < length + 1; i++){
-			for(int j = 0; j < words[i].size(); j++){
-				Word w = words[i][j];
+		for(int i = length - 1; i <= length + 1; i++){
+			for(Word w: words[i]){
 				if(w.get_matches(trigrams) >= stay){
 					suggestions.push_back(w.get_word());
 				}
