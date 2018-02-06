@@ -1050,8 +1050,8 @@ astoria 5 ast ori ria sto tor
 astrakhan 7 akh ast han kha rak str tra
 astroturf 7 ast otu rot str tro tur urf
 asturias 6 ast ias ria stu tur uri
-asunción 7 asu ci� ió nci sun unc ón
-asunción's 9 asu ci� ió n's nci sun unc �n' ón
+asunción 7 asu ci� ió nci sun unc ón
+asunción's 9 asu ci� ió n's nci sun unc �n' ón
 aswan 3 asw swa wan
 aswan's 5 an' asw n's swa wan
 at
@@ -1062,8 +1062,8 @@ atahualpa 7 ahu alp ata hua lpa tah ual
 atalanta 6 ala ant ata lan nta tal
 atari 3 ari ata tar
 atari's 5 ari ata i's ri' tar
-atatürk 6 ata at� tat tü �rk ür
-atatürk's 8 ata at� k's rk' tat tü �rk ür
+atatürk 6 ata at� tat tü �rk ür
+atatürk's 8 ata at� k's rk' tat tü �rk ür
 athabasca 7 aba asc ath bas hab sca tha
 athabasca's 9 a's aba asc ath bas ca' hab sca tha
 athabascan 8 aba asc ath bas can hab sca tha
@@ -1444,7 +1444,7 @@ bartholdi's 9 art bar di' hol i's ldi old rth tho
 bartholomew 9 art bar hol lom mew olo ome rth tho
 bartlett 6 art bar ett let rtl tle
 barton 4 art bar rto ton
-bartók 5 art bar rt� tó ók
+bartók 5 art bar rt� tó ók
 baruch 4 aru bar ruc uch
 baryshnikov 9 ary bar hni iko kov nik rys shn ysh
 basel 3 ase bas sel
@@ -1937,8 +1937,8 @@ boers 3 boe ers oer
 boethius 6 boe eth hiu ius oet thi
 bogart 4 art bog gar oga
 bogart's 6 art bog gar oga rt' t's
-bogotá 5 bog got ogo ot� tá
-bogotá's 7 bog got ogo ot� tá �'s á'
+bogotá 5 bog got ogo ot� tá
+bogotá's 7 bog got ogo ot� tá �'s á'
 bohemia 5 boh emi hem mia ohe
 bohemian 6 boh emi hem ian mia ohe
 bohemian's 8 an' boh emi hem ian mia n's ohe
@@ -2065,8 +2065,8 @@ boyd 2 boy oyd
 boyer 3 boy oye yer
 boyer's 5 boy er' oye r's yer
 boyle 3 boy oyl yle
-boötes 5 bo� oö tes �te öt
-boötes's 7 bo� es' oö s's tes �te öt
+boötes 5 bo� oö tes �te öt
+boötes's 7 bo� es' oö s's tes �te öt
 br
 br's 2 br' r's
 brad 2 bra rad
@@ -2429,8 +2429,8 @@ butler 4 but ler tle utl
 butterfingers 11 but erf ers fin ger ing nge rfi ter tte utt
 butterfingers's 13 but erf ers fin ger ing nge rfi rs' s's ter tte utt
 buxtehude 7 bux ehu hud teh ude uxt xte
-buñuel 5 bu� uel uñ �ue ñu
-buñuel's 7 bu� el' l's uel uñ �ue ñu
+buñuel 5 bu� uel uñ �ue ñu
+buñuel's 7 bu� el' l's uel uñ �ue ñu
 byblos 4 blo byb los ybl
 byblos's 6 blo byb los os' s's ybl
 byelorussia 9 bye elo lor oru rus sia ssi uss yel
@@ -3428,7 +3428,7 @@ conakry 5 akr con kry nak ona
 conakry's 7 akr con kry nak ona ry' y's
 conan 3 con nan ona
 conan's 5 an' con n's nan ona
-concepción 9 cep ci� con epc ió nce onc pci ón
+concepción 9 cep ci� con epc ió nce onc pci ón
 concetta 6 cet con ett nce onc tta
 concetta's 8 a's cet con ett nce onc ta' tta
 concord 5 con cor nco onc ord
@@ -4480,7 +4480,7 @@ dutchman's 8 an' chm dut hma man n's tch utc
 dutchmen 6 chm dut hme men tch utc
 duvalier 6 ali duv ier lie uva val
 dvina 3 dvi ina vin
-dvorák 5 dvo or� rá vor ák
+dvorák 5 dvo or� rá vor ák
 dwayne 4 ayn dwa way yne
 dwayne's 6 ayn dwa e's ne' way yne
 dwight 4 dwi ght igh wig
@@ -4494,9 +4494,9 @@ dyson's 5 dys n's on' son yso
 dzerzhinsky 9 dze erz hin ins nsk rzh sky zer zhi
 dzerzhinsky's 11 dze erz hin ins ky' nsk rzh sky y's zer zhi
 dzungaria 7 ari dzu gar nga ria ung zun
-dürer 4 dü rer �re ür
-düsseldorf 9 dor dü eld ldo orf sel sse �ss üs
-düsseldorf's 11 dor dü eld f's ldo orf rf' sel sse �ss üs
+dürer 4 dü rer �re ür
+düsseldorf 9 dor dü eld ldo orf sel sse �ss üs
+düsseldorf's 11 dor dü eld f's ldo orf rf' sel sse �ss üs
 e
 e's 1 e's
 ecg's 3 cg' ecg g's
@@ -4749,8 +4749,8 @@ elysian 5 ely ian lys sia ysi
 elysium 5 ely ium lys siu ysi
 elysium's 7 ely ium lys m's siu um' ysi
 elysiums 6 ely ium lys siu ums ysi
-elysée 5 ely lys sé ys� ée
-elysée's 7 e's ely lys sé ys� �e' ée
+elysée 5 ely lys sé ys� ée
+elysée's 7 e's ely lys sé ys� �e' ée
 emacs 3 acs ema mac
 emacs's 5 acs cs' ema mac s's
 emanuel 5 anu ema man nue uel
@@ -4941,8 +4941,8 @@ estelle 5 ell est lle ste tel
 estelle's 7 e's ell est le' lle ste tel
 ester 3 est ste ter
 ester's 5 er' est r's ste ter
-esterházy 8 erh est há rh� ste ter �zy áz
-esterházy's 10 erh est há rh� ste ter y's zy' �zy áz
+esterházy 8 erh est há rh� ste ter �zy áz
+esterházy's 10 erh est há rh� ste ter y's zy' �zy áz
 estes 3 est ste tes
 esther 4 est her sth the
 esther's 6 er' est her r's sth the
@@ -5085,7 +5085,7 @@ fm's 2 fm' m's
 fnma 2 fnm nma
 fnma's 4 a's fnm ma' nma
 fortran's 7 an' for n's ort ran rtr tra
-fabergé 6 abe ber erg fab gé rg�
+fabergé 6 abe ber erg fab gé rg�
 fabian 4 abi bia fab ian
 fabian's 6 abi an' bia fab ian n's
 facebook 6 ace boo ceb ebo fac ook
@@ -5505,8 +5505,8 @@ fulton 4 ful lto ton ult
 fulton's 6 ful lto n's on' ton ult
 funafuti 6 afu fun fut naf una uti
 fundy 3 fun ndy und
-furtwängler 10 fur gle ler ngl rtw tw� urt wä �ng än
-furtwängler's 12 er' fur gle ler ngl r's rtw tw� urt wä �ng än
+furtwängler 10 fur gle ler ngl rtw tw� urt wä �ng än
+furtwängler's 12 er' fur gle ler ngl r's rtw tw� urt wä �ng än
 fushun 4 fus hun shu ush
 fuzhou 4 fuz hou uzh zho
 fuzhou's 6 fuz hou ou' u's uzh zho
@@ -5767,7 +5767,7 @@ gethsemane 8 ane ema eth get hse man sem ths
 getty 3 ett get tty
 gettysburg 8 bur ett get sbu tty tys urg ysb
 gettysburg's 10 bur ett g's get rg' sbu tty tys urg ysb
-gewürztraminer 13 ami ew� gew ine min ner ram rzt tra wü ztr �rz ür
+gewürztraminer 13 ami ew� gew ine min ner ram rzt tra wü ztr �rz ür
 ghana 3 ana gha han
 ghana's 5 a's ana gha han na'
 ghanaian 6 aia ana gha han ian nai
@@ -6099,10 +6099,10 @@ grundy 4 gru ndy run und
 grus 2 gru rus
 grus's 4 gru rus s's us'
 gruyeres 6 ere gru res ruy uye yer
-gruyère 6 gru ruy uy� yè �re èr
-gruyère's 8 e's gru re' ruy uy� yè �re èr
-grünewald 8 ald ewa gr� new rü wal �ne ün
-grünewald's 10 ald d's ewa gr� ld' new rü wal �ne ün
+gruyère 6 gru ruy uy� yè �re èr
+gruyère's 8 e's gru re' ruy uy� yè �re èr
+grünewald 8 ald ewa gr� new rü wal �ne ün
+grünewald's 10 ald d's ewa gr� ld' new rü wal �ne ün
 guadalajara 9 ada aja ala ara dal gua jar laj uad
 guadalajara's 11 a's ada aja ala ara dal gua jar laj ra' uad
 guadalcanal 9 ada alc ana can dal gua lca nal uad
@@ -6206,10 +6206,10 @@ gwyn's 4 gwy n's wyn yn'
 gypsies 5 gyp ies psi sie yps
 gypsy 3 gyp psy yps
 gypsy's 5 gyp psy sy' y's yps
-gödel 4 del gö �de öd
-gödel's 6 del el' gö l's �de öd
-göteborg 7 bor ebo gö org teb �te öt
-göteborg's 9 bor ebo g's gö org rg' teb �te öt
+gödel 4 del gö �de öd
+gödel's 6 del el' gö l's �de öd
+göteborg 7 bor ebo gö org teb �te öt
+göteborg's 9 bor ebo g's gö org rg' teb �te öt
 h
 h's 1 h's
 hf's 2 f's hf'
@@ -6946,8 +6946,8 @@ hyundai 5 dai hyu nda und yun
 hyundai's 7 ai' dai hyu i's nda und yun
 hz
 hz's 2 hz' z's
-héloise 6 hé ise loi ois �lo él
-héloise's 8 e's hé ise loi ois se' �lo él
+héloise 6 hé ise loi ois �lo él
+héloise's 8 e's hé ise loi ois se' �lo él
 i
 i'd 1 i'd
 i'll 2 'll i'l
@@ -8311,8 +8311,8 @@ kyoto's 5 kyo o's oto to' yot
 kyrgyzstan 8 gyz kyr rgy sta tan yrg yzs zst
 kyushu 4 kyu shu ush yus
 kyushu's 6 hu' kyu shu u's ush yus
-köln 3 kö �ln öl
-köln's 5 kö ln' n's �ln öl
+köln 3 kö �ln öl
+köln's 5 kö ln' n's �ln öl
 l
 l'amour 5 'am amo l'a mou our
 l'oreal 5 'or eal l'o ore rea
@@ -9057,8 +9057,8 @@ lula's 4 a's la' lul ula
 lully 3 lly lul ull
 lulu 2 lul ulu
 lulu's 4 lu' lul u's ulu
-lumière 6 iè lum mi� umi �re èr
-lumière's 8 e's iè lum mi� re' umi �re èr
+lumière 6 iè lum mi� umi �re èr
+lumière's 8 e's iè lum mi� re' umi �re èr
 luna 2 lun una
 luna's 4 a's lun na' una
 lupe 2 lup upe
@@ -9343,7 +9343,7 @@ malibu's 6 ali bu' ibu lib mal u's
 malinda 5 ali ind lin mal nda
 malinda's 7 a's ali da' ind lin mal nda
 malinowski 8 ali ino lin mal now ows ski wsk
-mallarmé 7 all arm lar lla mal mé rm�
+mallarmé 7 all arm lar lla mal mé rm�
 mallomars 7 all ars llo lom mal mar oma
 mallomars's 9 all ars llo lom mal mar oma rs' s's
 mallory 5 all llo lor mal ory
@@ -10649,8 +10649,8 @@ myrtle's 6 e's le' myr rtl tle yrt
 mysore 4 mys ore sor yso
 myst 2 mys yst
 myst's 4 mys st' t's yst
-münchhausen 10 aus chh hau hha mü nch sen use �nc ün
-münchhausen's 12 aus chh en' hau hha mü n's nch sen use �nc ün
+münchhausen 10 aus chh hau hha mü nch sen use �nc ün
+münchhausen's 12 aus chh en' hau hha mü n's nch sen use �nc ün
 n
 n's 1 n's
 nasa's 4 a's asa nas sa'
@@ -11600,8 +11600,8 @@ paramaribo 8 ama ara ari ibo mar par ram rib
 paramaribo's 10 ama ara ari bo' ibo mar o's par ram rib
 paramount 7 amo ara mou oun par ram unt
 paramount's 9 amo ara mou nt' oun par ram t's unt
-paraná 5 an� ara ná par ran
-paraná's 7 an� ara ná par ran �'s á'
+paraná 5 an� ara ná par ran
+paraná's 7 an� ara ná par ran �'s á'
 parcheesi 7 arc che ees esi hee par rch
 parcheesi's 9 arc che ees esi hee i's par rch si'
 pareto 4 are eto par ret
@@ -12041,8 +12041,8 @@ podunk 4 dun odu pod unk
 poe 1 poe
 pogo 2 ogo pog
 pogo's 4 go' o's ogo pog
-poincaré 7 ar� car inc nca oin poi ré
-poincaré's 9 ar� car inc nca oin poi ré �'s é'
+poincaré 7 ar� car inc nca oin poi ré
+poincaré's 9 ar� car inc nca oin poi ré �'s é'
 poiret 4 ire oir poi ret
 poiret's 6 et' ire oir poi ret t's
 poirot 4 iro oir poi rot
@@ -12051,8 +12051,8 @@ poisson 5 iss ois poi son sso
 poisson's 7 iss n's ois on' poi son sso
 poitier 5 ier iti oit poi tie
 poitier's 7 er' ier iti oit poi r's tie
-pokémon 6 ké mon ok� pok �mo ém
-pokémon's 8 ké mon n's ok� on' pok �mo ém
+pokémon 6 ké mon ok� pok �mo ém
+pokémon's 8 ké mon n's ok� on' pok �mo ém
 poland 4 and lan ola pol
 poland's 6 and d's lan nd' ola pol
 polanski 6 ans lan nsk ola pol ski
@@ -12250,8 +12250,8 @@ proust's 6 ous pro rou st' t's ust
 provencals 8 als cal enc nca ove pro rov ven
 provence 6 enc nce ove pro rov ven
 provence's 8 ce' e's enc nce ove pro rov ven
-provençal 8 en� nç ove pro rov ven �al ça
-provençal's 10 al' en� l's nç ove pro rov ven �al ça
+provençal 8 en� nç ove pro rov ven �al ça
+provençal's 10 al' en� l's nç ove pro rov ven �al ça
 proverbs 6 erb ove pro rbs rov ver
 providence 8 den enc ide nce ovi pro rov vid
 providence's 10 ce' den e's enc ide nce ovi pro rov vid
@@ -12362,10 +12362,10 @@ pythagorean 9 ago ean gor hag ore pyt rea tha yth
 pythias 5 hia ias pyt thi yth
 python 4 hon pyt tho yth
 python's 6 hon n's on' pyt tho yth
-pétain 5 ain pé tai �ta ét
-pétain's 7 ain in' n's pé tai �ta ét
-pôrto 4 pô rto �rt ôr
-pôrto's 6 o's pô rto to' �rt ôr
+pétain 5 ain pé tai �ta ét
+pétain's 7 ain in' n's pé tai �ta ét
+pôrto 4 pô rto �rt ôr
+pôrto's 6 o's pô rto to' �rt ôr
 q
 qaddafi 5 add afi daf dda qad
 qaddafi's 7 add afi daf dda fi' i's qad
@@ -12422,7 +12422,7 @@ quixotism 7 ism ixo oti qui tis uix xot
 quixotism's 9 ism ixo m's oti qui sm' tis uix xot
 qumran 4 mra qum ran umr
 quonset 5 nse ons quo set uon
-québecois 8 bec coi eco ois qu� ué �be éb
+québecois 8 bec coi eco ois qu� ué �be éb
 r
 r's 1 r's
 raf's 3 af' f's raf
@@ -12461,8 +12461,8 @@ rafael 4 ael afa fae raf
 rafael's 6 ael afa el' fae l's raf
 raffles 5 aff ffl fle les raf
 raffles's 7 aff es' ffl fle les raf s's
-ragnarök 7 agn ar� gna nar rag rö ök
-ragnarök's 9 agn ar� gna k's nar rag rö �k' ök
+ragnarök 7 agn ar� gna nar rag rö ök
+ragnarök's 9 agn ar� gna k's nar rag rö �k' ök
 rainier 5 ain ier ini nie rai
 raleigh 5 ale eig igh lei ral
 raleigh's 7 ale eig gh' h's igh lei ral
@@ -13429,8 +13429,8 @@ schrieffer 8 chr eff fer ffe hri ief rie sch
 schrieffer's 10 chr eff er' fer ffe hri ief r's rie sch
 schroeder 7 chr der ede hro oed roe sch
 schroeder's 9 chr der ede er' hro oed r's roe sch
-schrödinger 10 chr din ger hr� ing nge rö sch �di öd
-schrödinger's 12 chr din er' ger hr� ing nge r's rö sch �di öd
+schrödinger 10 chr din ger hr� ing nge rö sch �di öd
+schrödinger's 12 chr din er' ger hr� ing nge r's rö sch �di öd
 schubert 6 ber chu ert hub sch ube
 schultz 5 chu hul ltz sch ult
 schultz's 7 chu hul ltz sch tz' ult z's
@@ -14498,7 +14498,7 @@ szilard 5 ard ila lar szi zil
 szilard's 7 ard d's ila lar rd' szi zil
 szymborska 8 bor mbo ors rsk ska szy ymb zym
 szymborska's 10 a's bor ka' mbo ors rsk ska szy ymb zym
-sèvres 5 res sè vre �vr èv
+sèvres 5 res sè vre �vr èv
 t
 t'ang 3 'an ang t'a
 t's 1 t's
@@ -14621,8 +14621,8 @@ tanisha 5 ani ish nis sha tan
 tanisha's 7 a's ani ha' ish nis sha tan
 tanner 4 ann ner nne tan
 tanner's 6 ann er' ner nne r's tan
-tannhäuser 9 ann hä nh� nnh ser tan use �us äu
-tannhäuser's 11 ann er' hä nh� nnh r's ser tan use �us äu
+tannhäuser 9 ann hä nh� nnh ser tan use �us äu
+tannhäuser's 11 ann er' hä nh� nnh r's ser tan use �us äu
 tantalus 6 alu ant lus nta tal tan
 tantalus's 8 alu ant lus nta s's tal tan us'
 tanya 3 any nya tan
@@ -14837,8 +14837,8 @@ thespian 6 esp hes ian pia spi the
 thespis 5 esp hes pis spi the
 thespis's 7 esp hes is' pis s's spi the
 thessalonian 10 alo ess hes ian lon nia oni sal ssa the
-thessaloníki 11 alo ess hes lon ní on� sal ssa the �ki ík
-thessaloníki's 13 alo ess hes i's ki' lon ní on� sal ssa the �ki ík
+thessaloníki 11 alo ess hes lon ní on� sal ssa the �ki ík
+thessaloníki's 13 alo ess hes i's ki' lon ní on� sal ssa the �ki ík
 thessaly 6 aly ess hes sal ssa the
 thessaly's 8 aly ess hes ly' sal ssa the y's
 thieu 3 hie ieu thi
@@ -15464,7 +15464,7 @@ valparaiso 8 ais alp ara iso lpa par rai val
 valparaiso's 10 ais alp ara iso lpa o's par rai so' val
 valvoline 7 alv ine lin lvo oli val vol
 valvoline's 9 alv e's ine lin lvo ne' oli val vol
-valéry 5 al� lé val �ry ér
+valéry 5 al� lé val �ry ér
 van 1 van
 vance 3 anc nce van
 vancouver 7 anc cou nco ouv uve van ver
@@ -15520,9 +15520,9 @@ velma 3 elm lma vel
 velma's 5 a's elm lma ma' vel
 velveeta 6 eet elv eta lve vee vel
 velveeta's 8 a's eet elv eta lve ta' vee vel
-velásquez 8 el� lá que squ uez vel �sq ás
-velásquez's 10 el� ez' lá que squ uez vel z's �sq ás
-velázquez 8 el� lá que uez vel zqu �zq áz
+velásquez 8 el� lá que squ uez vel �sq ás
+velásquez's 10 el� ez' lá que squ uez vel z's �sq ás
+velázquez 8 el� lá que uez vel zqu �zq áz
 venetian 6 ene eti ian net tia ven
 venetian's 8 an' ene eti ian n's net tia ven
 venetians 7 ans ene eti ian net tia ven
@@ -16479,8 +16479,8 @@ zyrtec 4 rte tec yrt zyr
 zyrtec's 6 c's ec' rte tec yrt zyr
 zyuganov 6 ano gan nov uga yug zyu
 zyuganov's 8 ano gan nov ov' uga v's yug zyu
-zürich 5 ich ric zü �ri ür
-zürich's 7 ch' h's ich ric zü �ri ür
+zürich 5 ich ric zü �ri ür
+zürich's 7 ch' h's ich ric zü �ri ür
 a
 aardvark 6 aar ard ark dva rdv var
 aardvark's 8 aar ard ark dva k's rdv rk' var
@@ -16535,9 +16535,9 @@ abbreviating 10 abb ati bbr bre evi iat ing rev tin via
 abbreviation 10 abb ati bbr bre evi iat ion rev tio via
 abbreviation's 12 abb ati bbr bre evi iat ion n's on' rev tio via
 abbreviations 11 abb ati bbr bre evi iat ion ons rev tio via
-abbé 3 abb bb� bé
-abbé's 5 abb bb� bé �'s é'
-abbés 4 abb bb� bé és
+abbé 3 abb bb� bé
+abbé's 5 abb bb� bé �'s é'
+abbés 4 abb bb� bé és
 abdicate 6 abd ate bdi cat dic ica
 abdicated 7 abd ate bdi cat dic ica ted
 abdicates 7 abd ate bdi cat dic ica tes
@@ -17376,7 +17376,7 @@ adieu's 5 adi die eu' ieu u's
 adieus 4 adi die eus ieu
 adieux 4 adi die eux ieu
 adipose 5 adi dip ipo ose pos
-adiós 4 adi di� ió ós
+adiós 4 adi di� ió ós
 adjacent 6 ace adj cen dja ent jac
 adjacently 8 ace adj cen dja ent jac ntl tly
 adjectival 8 adj cti dje ect iva jec tiv val
@@ -19598,11 +19598,11 @@ applicator's 10 app ato cat ica lic or' pli ppl r's tor
 applicators 9 app ato cat ica lic ors pli ppl tor
 applied 5 app ied lie pli ppl
 applies 5 app ies lie pli ppl
-appliqué 7 app iqu liq pli ppl qu� ué
-appliqué's 9 app iqu liq pli ppl qu� ué �'s é'
-appliquéd 8 app iqu liq pli ppl qu� ué éd
-appliquéing 10 app ing iqu liq pli ppl qu� ué �in éi
-appliqués 8 app iqu liq pli ppl qu� ué és
+appliqué 7 app iqu liq pli ppl qu� ué
+appliqué's 9 app iqu liq pli ppl qu� ué �'s é'
+appliquéd 8 app iqu liq pli ppl qu� ué éd
+appliquéing 10 app ing iqu liq pli ppl qu� ué �in éi
+appliqués 8 app iqu liq pli ppl qu� ué és
 apply 3 app ply ppl
 applying 6 app ing lyi ply ppl yin
 appoint 5 app int oin poi ppo
@@ -20642,9 +20642,9 @@ attaching 7 ach att chi hin ing tac tta
 attachment 8 ach att chm ent hme men tac tta
 attachment's 10 ach att chm ent hme men nt' t's tac tta
 attachments 9 ach att chm ent hme men nts tac tta
-attaché 6 ach att ch� hé tac tta
-attaché's 8 ach att ch� hé tac tta �'s é'
-attachés 7 ach att ch� hé tac tta és
+attaché 6 ach att ch� hé tac tta
+attaché's 8 ach att ch� hé tac tta �'s é'
+attachés 7 ach att ch� hé tac tta és
 attack 4 ack att tac tta
 attack's 6 ack att ck' k's tac tta
 attacked 6 ack att cke ked tac tta
@@ -23491,7 +23491,7 @@ blastoff 6 ast bla las off sto tof
 blastoff's 8 ast bla f's ff' las off sto tof
 blastoffs 7 ast bla ffs las off sto tof
 blasts 4 ast bla las sts
-blasé 4 as� bla las sé
+blasé 4 as� bla las sé
 blatant 5 ant ata bla lat tan
 blatantly 7 ant ata bla lat ntl tan tly
 blaze 3 aze bla laz
@@ -24510,9 +24510,9 @@ bout's 4 bou out t's ut'
 boutique 6 bou iqu out que tiq uti
 boutique's 8 bou e's iqu out que tiq ue' uti
 boutiques 7 bou iqu out que tiq ues uti
-boutonnière 10 bou iè ni� nni onn out ton uto �re èr
-boutonnière's 12 bou e's iè ni� nni onn out re' ton uto �re èr
-boutonnières 11 bou iè ni� nni onn out res ton uto �re èr
+boutonnière 10 bou iè ni� nni onn out ton uto �re èr
+boutonnière's 12 bou e's iè ni� nni onn out re' ton uto �re èr
+boutonnières 11 bou iè ni� nni onn out res ton uto �re èr
 bouts 3 bou out uts
 bovine 4 bov ine ovi vin
 bovine's 6 bov e's ine ne' ovi vin
@@ -26129,9 +26129,9 @@ caffeine's 8 aff caf e's ein fei ffe ine ne'
 caftan 4 aft caf fta tan
 caftan's 6 aft an' caf fta n's tan
 caftans 5 aft ans caf fta tan
-café 3 af� caf fé
-café's 5 af� caf fé �'s é'
-cafés 4 af� caf fé és
+café 3 af� caf fé
+café's 5 af� caf fé �'s é'
+cafés 4 af� caf fé és
 cage 2 age cag
 cage's 4 age cag e's ge'
 caged 3 age cag ged
@@ -26425,9 +26425,9 @@ can't 3 an' can n't
 canal 3 ana can nal
 canal's 5 al' ana can l's nal
 canals 4 als ana can nal
-canapé 5 ana ap� can nap pé
-canapé's 7 ana ap� can nap pé �'s é'
-canapés 6 ana ap� can nap pé és
+canapé 5 ana ap� can nap pé
+canapé's 7 ana ap� can nap pé �'s é'
+canapés 6 ana ap� can nap pé és
 canard 4 ana ard can nar
 canard's 6 ana ard can d's nar rd'
 canards 5 ana ard can nar rds
@@ -28804,12 +28804,12 @@ chutzpa 5 chu hut tzp utz zpa
 chutzpa's 7 a's chu hut pa' tzp utz zpa
 chutzpah 6 chu hut pah tzp utz zpa
 chutzpah's 8 ah' chu h's hut pah tzp utz zpa
-château 6 ch� eau hâ tea �te ât
-château's 8 au' ch� eau hâ tea u's �te ât
-châteaux 7 aux ch� eau hâ tea �te ât
-châtelaine 9 ain ch� ela hâ ine lai tel �te ât
-châtelaine's 11 ain ch� e's ela hâ ine lai ne' tel �te ât
-châtelaines 10 ain ch� ela hâ ine lai nes tel �te ât
+château 6 ch� eau hâ tea �te ât
+château's 8 au' ch� eau hâ tea u's �te ât
+châteaux 7 aux ch� eau hâ tea �te ât
+châtelaine 9 ain ch� ela hâ ine lai tel �te ât
+châtelaine's 11 ain ch� e's ela hâ ine lai ne' tel �te ât
+châtelaines 10 ain ch� ela hâ ine lai nes tel �te ât
 cicada 4 ada cad cic ica
 cicada's 6 a's ada cad cic da' ica
 cicadae 5 ada cad cic dae ica
@@ -29312,10 +29312,10 @@ clew's 4 cle ew' lew w's
 clewed 4 cle ewe lew wed
 clewing 5 cle ewi ing lew win
 clews 3 cle ews lew
-cliché 5 ch� cli hé ich lic
-cliché's 7 ch� cli hé ich lic �'s é'
-clichéd 6 ch� cli hé ich lic éd
-clichés 6 ch� cli hé ich lic és
+cliché 5 ch� cli hé ich lic
+cliché's 7 ch� cli hé ich lic �'s é'
+clichéd 6 ch� cli hé ich lic éd
+clichés 6 ch� cli hé ich lic és
 click 3 cli ick lic
 click's 5 ck' cli ick k's lic
 clicked 5 cke cli ick ked lic
@@ -29324,9 +29324,9 @@ clicks 4 cks cli ick lic
 client 4 cli ent ien lie
 client's 6 cli ent ien lie nt' t's
 clients 5 cli ent ien lie nts
-clientèle 8 cli ent ien lie nt� tè �le èl
-clientèle's 10 cli e's ent ien le' lie nt� tè �le èl
-clientèles 9 cli ent ien les lie nt� tè �le èl
+clientèle 8 cli ent ien lie nt� tè �le èl
+clientèle's 10 cli e's ent ien le' lie nt� tè �le èl
+clientèles 9 cli ent ien les lie nt� tè �le èl
 cliff 3 cli iff lif
 cliff's 5 cli f's ff' iff lif
 cliffhanger 9 ang cli ffh fha ger han iff lif nge
@@ -31187,9 +31187,9 @@ confrontations 12 ati con fro ion nfr nta onf ons ont ron tat tio
 confronted 8 con fro nfr nte onf ont ron ted
 confronting 9 con fro ing nfr nti onf ont ron tin
 confronts 7 con fro nfr nts onf ont ron
-confrère 7 con fr� nfr onf rè �re èr
-confrère's 9 con e's fr� nfr onf re' rè �re èr
-confrères 8 con fr� nfr onf res rè �re èr
+confrère 7 con fr� nfr onf rè �re èr
+confrère's 9 con e's fr� nfr onf re' rè �re èr
+confrères 8 con fr� nfr onf res rè �re èr
 confuse 5 con fus nfu onf use
 confused 6 con fus nfu onf sed use
 confusedly 8 con dly edl fus nfu onf sed use
@@ -31483,8 +31483,8 @@ consolidation 11 ati con dat ida ion lid nso oli ons sol tio
 consolidation's 13 ati con dat ida ion lid n's nso oli on' ons sol tio
 consolidations 12 ati con dat ida ion lid nso oli ons ons sol tio
 consoling 7 con ing lin nso oli ons sol
-consommé 7 con mm� mé nso omm ons som
-consommé's 9 con mm� mé nso omm ons som �'s é'
+consommé 7 con mm� mé nso omm ons som
+consommé's 9 con mm� mé nso omm ons som �'s é'
 consonance 8 anc con nan nce nso ona ons son
 consonance's 10 anc ce' con e's nan nce nso ona ons son
 consonances 9 anc ces con nan nce nso ona ons son
@@ -32431,9 +32431,9 @@ cortical 6 cal cor ica ort rti tic
 cortices 6 ces cor ice ort rti tic
 cortisone 7 cor iso one ort rti son tis
 cortisone's 9 cor e's iso ne' one ort rti son tis
-cortège 6 cor ort rt� tè �ge èg
-cortège's 8 cor e's ge' ort rt� tè �ge èg
-cortèges 7 cor ges ort rt� tè �ge èg
+cortège 6 cor ort rt� tè �ge èg
+cortège's 8 cor e's ge' ort rt� tè �ge èg
+cortèges 7 cor ges ort rt� tè �ge èg
 coruscate 7 ate cat cor oru rus sca usc
 coruscated 8 ate cat cor oru rus sca ted usc
 coruscates 8 ate cat cor oru rus sca tes usc
@@ -33528,9 +33528,9 @@ crows 3 cro ows row
 crozier 5 cro ier ozi roz zie
 crozier's 7 cro er' ier ozi r's roz zie
 croziers 6 cro ers ier ozi roz zie
-croûton 6 cro oû ro� ton �to ût
-croûton's 8 cro n's on' oû ro� ton �to ût
-croûtons 7 cro ons oû ro� ton �to ût
+croûton 6 cro oû ro� ton �to ût
+croûton's 8 cro n's on' oû ro� ton �to ût
+croûtons 7 cro ons oû ro� ton �to ût
 crucial 5 cia cru ial ruc uci
 crucially 7 all cia cru ial lly ruc uci
 crucible 6 ble cib cru ibl ruc uci
@@ -33564,8 +33564,8 @@ crudest 5 cru des est rud ude
 crudities 7 cru dit ies iti rud tie udi
 crudity 5 cru dit ity rud udi
 crudity's 7 cru dit ity rud ty' udi y's
-crudités 7 cru dit it� rud té udi és
-crudités's 9 cru dit it� rud s's té udi �s' és
+crudités 7 cru dit it� rud té udi és
+crudités's 9 cru dit it� rud s's té udi �s' és
 cruel 3 cru rue uel
 crueler 5 cru ele ler rue uel
 cruelest 6 cru ele est les rue uel
@@ -33693,9 +33693,9 @@ crystallizing 11 all cry ing izi liz lli rys sta tal yst zin
 crystallographic 14 all aph cry gra hic llo log ogr phi rap rys sta tal yst
 crystallography 13 all aph cry gra llo log ogr phy rap rys sta tal yst
 crystals 6 als cry rys sta tal yst
-crèche 5 che cr� rè �ch èc
-crèche's 7 che cr� e's he' rè �ch èc
-crèches 6 che cr� hes rè �ch èc
+crèche 5 che cr� rè �ch èc
+crèche's 7 che cr� e's he' rè �ch èc
+crèches 6 che cr� hes rè �ch èc
 cs
 cub 1 cub
 cub's 3 b's cub ub'
@@ -35901,9 +35901,9 @@ derricks 6 cks der err ick ric rri
 derringer 7 der err ger ing nge rin rri
 derringer's 9 der er' err ger ing nge r's rin rri
 derringers 8 der err ers ger ing nge rin rri
-derrière 7 der err iè ri� rri �re èr
-derrière's 9 der e's err iè re' ri� rri �re èr
-derrières 8 der err iè res ri� rri �re èr
+derrière 7 der err iè ri� rri �re èr
+derrière's 9 der e's err iè re' ri� rri �re èr
+derrières 8 der err iè res ri� rri �re èr
 dervish 5 der erv ish rvi vis
 dervish's 7 der erv h's ish rvi sh' vis
 dervishes 7 der erv hes ish rvi she vis
@@ -37991,9 +37991,9 @@ divorce's 7 ce' div e's ivo orc rce vor
 divorced 6 ced div ivo orc rce vor
 divorces 6 ces div ivo orc rce vor
 divorcing 7 cin div ing ivo orc rci vor
-divorcée 7 cé div ivo orc rc� vor ée
-divorcée's 9 cé div e's ivo orc rc� vor �e' ée
-divorcées 8 cé div ivo orc rc� vor �es ée
+divorcée 7 cé div ivo orc rc� vor ée
+divorcée's 9 cé div e's ivo orc rc� vor �e' ée
+divorcées 8 cé div ivo orc rc� vor �es ée
 divot 3 div ivo vot
 divot's 5 div ivo ot' t's vot
 divots 4 div ivo ots vot
@@ -39280,15 +39280,15 @@ dyspepsia's 9 a's dys eps ia' pep psi sia spe ysp
 dyspeptic 7 dys ept pep pti spe tic ysp
 dyspeptic's 9 c's dys ept ic' pep pti spe tic ysp
 dyspeptics 8 dys ept ics pep pti spe tic ysp
-débutante 8 ant but dé nte tan uta �bu éb
-débutante's 10 ant but dé e's nte tan te' uta �bu éb
-débutantes 9 ant but dé nte tan tes uta �bu éb
-décolleté 9 col dé et� let lle oll té �co éc
-dérailleur 9 ail dé eur ill leu lle rai �ra ér
-dérailleur's 11 ail dé eur ill leu lle r's rai ur' �ra ér
-dérailleurs 10 ail dé eur ill leu lle rai urs �ra ér
-détente 6 dé ent nte ten �te ét
-détente's 8 dé e's ent nte te' ten �te ét
+débutante 8 ant but dé nte tan uta �bu éb
+débutante's 10 ant but dé e's nte tan te' uta �bu éb
+débutantes 9 ant but dé nte tan tes uta �bu éb
+décolleté 9 col dé et� let lle oll té �co éc
+dérailleur 9 ail dé eur ill leu lle rai �ra ér
+dérailleur's 11 ail dé eur ill leu lle r's rai ur' �ra ér
+dérailleurs 10 ail dé eur ill leu lle rai urs �ra ér
+détente 6 dé ent nte ten �te ét
+détente's 8 dé e's ent nte te' ten �te ét
 e
 e'er 2 'er e'e
 ebay 2 bay eba
@@ -40950,9 +40950,9 @@ entry's 5 ent ntr ry' try y's
 entryway 6 ent ntr ryw try way ywa
 entryway's 8 ay' ent ntr ryw try way y's ywa
 entryways 7 ays ent ntr ryw try way ywa
-entrée 5 ent ntr ré tr� ée
-entrée's 7 e's ent ntr ré tr� �e' ée
-entrées 6 ent ntr ré tr� �es ée
+entrée 5 ent ntr ré tr� ée
+entrée's 7 e's ent ntr ré tr� �e' ée
+entrées 6 ent ntr ré tr� �es ée
 entwine 5 ent ine ntw twi win
 entwined 6 ent ine ned ntw twi win
 entwines 6 ent ine nes ntw twi win
@@ -43435,12 +43435,12 @@ fez 1 fez
 fez's 3 ez' fez z's
 fezes 3 eze fez zes
 fezzes 4 ezz fez zes zze
-fiancé 5 anc cé fia ian nc�
-fiancé's 7 anc cé fia ian nc� �'s é'
-fiancée 6 anc cé fia ian nc� ée
-fiancée's 8 anc cé e's fia ian nc� �e' ée
-fiancées 7 anc cé fia ian nc� �es ée
-fiancés 6 anc cé fia ian nc� és
+fiancé 5 anc cé fia ian nc�
+fiancé's 7 anc cé fia ian nc� �'s é'
+fiancée 6 anc cé fia ian nc� ée
+fiancée's 8 anc cé e's fia ian nc� �e' ée
+fiancées 7 anc cé fia ian nc� �es ée
+fiancés 6 anc cé fia ian nc� és
 fiasco 4 asc fia ias sco
 fiasco's 6 asc co' fia ias o's sco
 fiascoes 6 asc coe fia ias oes sco
@@ -44081,9 +44081,9 @@ flamboyance 9 amb anc boy fla lam mbo nce oya yan
 flamboyance's 11 amb anc boy ce' e's fla lam mbo nce oya yan
 flamboyant 8 amb ant boy fla lam mbo oya yan
 flamboyantly 10 amb ant boy fla lam mbo ntl oya tly yan
-flambé 5 amb bé fla lam mb�
-flambé's 7 amb bé fla lam mb� �'s é'
-flambéed 7 amb bé fla lam mb� �ed ée
+flambé 5 amb bé fla lam mb�
+flambé's 7 amb bé fla lam mb� �'s é'
+flambéed 7 amb bé fla lam mb� �ed ée
 flame 3 ame fla lam
 flame's 5 ame e's fla lam me'
 flamed 4 ame fla lam med
@@ -45530,8 +45530,8 @@ franks 4 ank fra nks ran
 frantic 5 ant fra nti ran tic
 frantically 9 all ant cal fra ica lly nti ran tic
 frappes 5 app fra pes ppe rap
-frappé 5 app fra pp� pé rap
-frappé's 7 app fra pp� pé rap �'s é'
+frappé 5 app fra pp� pé rap
+frappé's 7 app fra pp� pé rap �'s é'
 frat 2 fra rat
 frat's 4 at' fra rat t's
 fraternal 7 ate ern fra nal rat rna ter
@@ -46250,9 +46250,9 @@ fuzziness 7 ess fuz ine nes uzz zin zzi
 fuzziness's 9 ess fuz ine nes s's ss' uzz zin zzi
 fuzzing 5 fuz ing uzz zin zzi
 fuzzy 3 fuz uzz zzy
-fête 3 fê �te êt
-fête's 5 e's fê te' �te êt
-fêtes 4 fê tes �te êt
+fête 3 fê �te êt
+fête's 5 e's fê te' �te êt
+fêtes 4 fê tes �te êt
 g
 gab 1 gab
 gab's 3 ab' b's gab
@@ -49039,9 +49039,9 @@ habituates 8 abi ate bit hab itu tes tua uat
 habituating 9 abi ati bit hab ing itu tin tua uat
 habituation 9 abi ati bit hab ion itu tio tua uat
 habituation's 11 abi ati bit hab ion itu n's on' tio tua uat
-habitué 6 abi bit hab itu tu� ué
-habitué's 8 abi bit hab itu tu� ué �'s é'
-habitués 7 abi bit hab itu tu� ué és
+habitué 6 abi bit hab itu tu� ué
+habitué's 8 abi bit hab itu tu� ué �'s é'
+habitués 7 abi bit hab itu tu� ué és
 hacienda 6 aci cie end hac ien nda
 hacienda's 8 a's aci cie da' end hac ien nda
 haciendas 7 aci cie das end hac ien nda
@@ -53897,9 +53897,9 @@ ingress 5 ess gre ing ngr res
 ingress's 7 ess gre ing ngr res s's ss'
 ingresses 7 ess gre ing ngr res ses sse
 ingrown 5 gro ing ngr own row
-ingénue 6 gé ing ng� nue �nu én
-ingénue's 8 e's gé ing ng� nue ue' �nu én
-ingénues 7 gé ing ng� nue ues �nu én
+ingénue 6 gé ing ng� nue �nu én
+ingénue's 8 e's gé ing ng� nue ue' �nu én
+ingénues 7 gé ing ng� nue ues �nu én
 inhabit 5 abi bit hab inh nha
 inhabitable 9 abi abl bit ble hab inh ita nha tab
 inhabitant 8 abi ant bit hab inh ita nha tan
@@ -55511,9 +55511,9 @@ jailor 4 ail ilo jai lor
 jailor's 6 ail ilo jai lor or' r's
 jailors 5 ail ilo jai lor ors
 jails 3 ail ils jai
-jalapeño 7 ala ape eñ jal lap pe� ño
-jalapeño's 9 ala ape eñ jal lap o's pe� �o' ño
-jalapeños 8 ala ape eñ jal lap pe� �os ño
+jalapeño 7 ala ape eñ jal lap pe� ño
+jalapeño's 9 ala ape eñ jal lap o's pe� �o' ño
+jalapeños 8 ala ape eñ jal lap pe� �os ño
 jalopies 6 alo ies jal lop opi pie
 jalopy 4 alo jal lop opy
 jalopy's 6 alo jal lop opy py' y's
@@ -55552,9 +55552,9 @@ japes 3 ape jap pes
 japing 4 api ing jap pin
 jar 1 jar
 jar's 3 ar' jar r's
-jardinière 9 ard din ini iè jar ni� rdi �re èr
-jardinière's 11 ard din e's ini iè jar ni� rdi re' �re èr
-jardinières 10 ard din ini iè jar ni� rdi res �re èr
+jardinière 9 ard din ini iè jar ni� rdi �re èr
+jardinière's 11 ard din e's ini iè jar ni� rdi re' �re èr
+jardinières 10 ard din ini iè jar ni� rdi res �re èr
 jargon 4 arg gon jar rgo
 jargon's 6 arg gon jar n's on' rgo
 jarred 4 arr jar red rre
@@ -56503,9 +56503,9 @@ kindergartener 12 art der ene erg gar ind kin nde ner rga rte ten
 kindergartener's 14 art der ene er' erg gar ind kin nde ner r's rga rte ten
 kindergarteners 13 art der ene erg ers gar ind kin nde ner rga rte ten
 kindergartens 11 art der ens erg gar ind kin nde rga rte ten
-kindergärtner 12 der erg gä ind kin nde ner rg� rtn tne �rt är
-kindergärtner's 14 der er' erg gä ind kin nde ner r's rg� rtn tne �rt är
-kindergärtners 13 der erg ers gä ind kin nde ner rg� rtn tne �rt är
+kindergärtner 12 der erg gä ind kin nde ner rg� rtn tne �rt är
+kindergärtner's 14 der er' erg gä ind kin nde ner r's rg� rtn tne �rt är
+kindergärtners 13 der erg ers gä ind kin nde ner rg� rtn tne �rt är
 kindest 5 des est ind kin nde
 kindhearted 9 art dhe ear hea ind kin ndh rte ted
 kindle 4 dle ind kin ndl
@@ -56791,9 +56791,9 @@ kroner 4 kro ner one ron
 kronor 4 kro nor ono ron
 krypton 5 kry pto ryp ton ypt
 krypton's 7 kry n's on' pto ryp ton ypt
-króna 4 kr� ró �na ón
-króna's 6 a's kr� na' ró �na ón
-krónur 5 kr� nur ró �nu ón
+króna 4 kr� ró �na ón
+króna's 6 a's kr� na' ró �na ón
+krónur 5 kr� nur ró �nu ón
 ks
 kudos 3 dos kud udo
 kudos's 5 dos kud os' s's udo
@@ -59450,8 +59450,8 @@ mackinaws 7 ack aws cki ina kin mac naw
 mackintosh 8 ack cki int kin mac nto osh tos
 mackintosh's 10 ack cki h's int kin mac nto osh sh' tos
 mackintoshes 10 ack cki hes int kin mac nto osh she tos
-macramé 6 acr am� cra mac mé ram
-macramé's 8 acr am� cra mac mé ram �'s é'
+macramé 6 acr am� cra mac mé ram
+macramé's 8 acr am� cra mac mé ram �'s é'
 macro 3 acr cro mac
 macro's 5 acr cro mac o's ro'
 macrobiotic 9 acr bio cro iot mac obi oti rob tic
@@ -60034,7 +60034,7 @@ manorial 6 ano ial man nor ori ria
 manors 4 ano man nor ors
 manpower 6 anp man npo owe pow wer
 manpower's 8 anp er' man npo owe pow r's wer
-manqué 5 anq man nqu qu� ué
+manqué 5 anq man nqu qu� ué
 mans 2 ans man
 mansard 5 ans ard man nsa sar
 mansard's 7 ans ard d's man nsa rd' sar
@@ -60100,8 +60100,8 @@ manuscript's 10 anu cri ipt man nus pt' rip scr t's usc
 manuscripts 9 anu cri ipt man nus pts rip scr usc
 many 2 any man
 many's 4 any man ny' y's
-manège 5 an� man nè �ge èg
-manège's 7 an� e's ge' man nè �ge èg
+manège 5 an� man nè �ge èg
+manège's 7 an� e's ge' man nè �ge èg
 map 1 map
 map's 3 ap' map p's
 maple 3 apl map ple
@@ -60531,9 +60531,9 @@ mathematics's 11 ath ati cs' ema hem ics mat mat s's the tic
 mating 4 ati ing mat tin
 matins 4 ati ins mat tin
 matins's 6 ati ins mat ns' s's tin
-matinée 6 ati in� mat né tin ée
-matinée's 8 ati e's in� mat né tin �e' ée
-matinées 7 ati in� mat né tin �es ée
+matinée 6 ati in� mat né tin ée
+matinée's 8 ati e's in� mat né tin �e' ée
+matinées 7 ati in� mat né tin �es ée
 matriarch 7 arc atr iar mat rch ria tri
 matriarch's 9 arc atr ch' h's iar mat rch ria tri
 matriarchal 9 arc atr cha hal iar mat rch ria tri
@@ -60601,8 +60601,8 @@ matzohs 5 atz mat ohs tzo zoh
 matzos 4 atz mat tzo zos
 matzot 4 atz mat tzo zot
 matzoth 5 atz mat oth tzo zot
-matériel 7 at� iel mat rie té �ri ér
-matériel's 9 at� el' iel l's mat rie té �ri ér
+matériel 7 at� iel mat rie té �ri ér
+matériel's 9 at� el' iel l's mat rie té �ri ér
 maudlin 5 aud dli lin mau udl
 maul 2 aul mau
 maul's 4 aul l's mau ul'
@@ -63781,12 +63781,12 @@ mythologists 10 gis hol ist log myt ogi olo sts tho yth
 mythology 7 hol log myt ogy olo tho yth
 mythology's 9 gy' hol log myt ogy olo tho y's yth
 myths 3 myt ths yth
-métier 5 ier mé tie �ti ét
-métier's 7 er' ier mé r's tie �ti ét
-métiers 6 ers ier mé tie �ti ét
-mêlée 5 lé mê �l� ée êl
-mêlée's 7 e's lé mê �e' �l� ée êl
-mêlées 6 lé mê �es �l� ée êl
+métier 5 ier mé tie �ti ét
+métier's 7 er' ier mé r's tie �ti ét
+métiers 6 ers ier mé tie �ti ét
+mêlée 5 lé mê �l� ée êl
+mêlée's 7 e's lé mê �e' �l� ée êl
+mêlées 6 lé mê �es �l� ée êl
 n
 nab 1 nab
 nabbed 4 abb bbe bed nab
@@ -63825,8 +63825,8 @@ naively 5 aiv ely ive nai vel
 naiver 4 aiv ive nai ver
 naivest 5 aiv est ive nai ves
 naivety 5 aiv ety ive nai vet
-naiveté 6 aiv et� ive nai té vet
-naiveté's 8 aiv et� ive nai té vet �'s é'
+naiveté 6 aiv et� ive nai té vet
+naiveté's 8 aiv et� ive nai té vet �'s é'
 naked 3 ake ked nak
 nakedly 5 ake dly edl ked nak
 nakedness 7 ake dne edn ess ked nak nes
@@ -66642,7 +66642,7 @@ outright 6 ght igh out rig tri utr
 outrun 4 out run tru utr
 outrunning 8 ing nin nni out run tru unn utr
 outruns 5 out run tru uns utr
-outré 4 out ré tr� utr
+outré 4 out ré tr� utr
 outs 2 out uts
 outsell 5 ell out sel tse uts
 outselling 8 ell ing lin lli out sel tse uts
@@ -68175,7 +68175,7 @@ passports 7 ass ort pas por rts spo ssp
 password 6 ass ord pas ssw swo wor
 password's 8 ass d's ord pas rd' ssw swo wor
 passwords 7 ass ord pas rds ssw swo wor
-passé 4 ass pas ss� sé
+passé 4 ass pas ss� sé
 past 2 ast pas
 past's 4 ast pas st' t's
 pasta 3 ast pas sta
@@ -73305,9 +73305,9 @@ protuberance 10 anc ber era nce otu pro ran rot tub ube
 protuberance's 12 anc ber ce' e's era nce otu pro ran rot tub ube
 protuberances 11 anc ber ces era nce otu pro ran rot tub ube
 protuberant 9 ant ber era otu pro ran rot tub ube
-protégé 7 gé ot� pro rot té �g� ég
-protégé's 9 gé ot� pro rot té �'s �g� é' ég
-protégés 8 gé ot� pro rot té �g� ég és
+protégé 7 gé ot� pro rot té �g� ég
+protégé's 9 gé ot� pro rot té �'s �g� é' ég
+protégés 8 gé ot� pro rot té �g� ég és
 proud 3 oud pro rou
 prouder 5 der oud pro rou ude
 proudest 6 des est oud pro rou ude
@@ -73413,10 +73413,10 @@ prurient 6 ent ien pru rie rur uri
 pry 1 pry
 pry's 3 pry ry' y's
 prying 4 ing pry ryi yin
-précis 5 cis pr� ré �ci éc
-précis's 7 cis is' pr� ré s's �ci éc
-précised 7 cis ise pr� ré sed �ci éc
-précising 8 cis ing isi pr� ré sin �ci éc
+précis 5 cis pr� ré �ci éc
+précis's 7 cis is' pr� ré s's �ci éc
+précised 7 cis ise pr� ré sed �ci éc
+précising 8 cis ing isi pr� ré sin �ci éc
 psalm 3 alm psa sal
 psalm's 5 alm lm' m's psa sal
 psalmist 6 alm ist lmi mis psa sal
@@ -75460,7 +75460,7 @@ recheck's 7 che ck' ech eck hec k's rec
 rechecked 7 che cke ech eck hec ked rec
 rechecking 8 che cki ech eck hec ing kin rec
 rechecks 6 che cks ech eck hec rec
-recherché 8 che ch� ech erc her hé rch rec
+recherché 8 che ch� ech erc her hé rch rec
 recidivism 8 cid div eci idi ism ivi rec vis
 recidivism's 10 cid div eci idi ism ivi m's rec sm' vis
 recidivist 8 cid div eci idi ist ivi rec vis
@@ -78302,7 +78302,7 @@ riskiness's 9 ess ine isk kin nes ris s's ski ss'
 risking 5 ing isk kin ris ski
 risks 3 isk ris sks
 risky 3 isk ris sky
-risqué 5 isq qu� ris squ ué
+risqué 5 isq qu� ris squ ué
 rite 2 ite rit
 rite's 4 e's ite rit te'
 rites 3 ite rit tes
@@ -78775,9 +78775,9 @@ routinized 8 ini ize niz out rou tin uti zed
 routinizes 8 ini ize niz out rou tin uti zes
 routinizing 9 ing ini izi niz out rou tin uti zin
 routs 3 out rou uts
-roué 3 ou� rou ué
-roué's 5 ou� rou ué �'s é'
-roués 4 ou� rou ué és
+roué 3 ou� rou ué
+roué's 5 ou� rou ué �'s é'
+roués 4 ou� rou ué és
 rove 2 ove rov
 roved 3 ove rov ved
 rover 3 ove rov ver
@@ -79757,11 +79757,11 @@ sausage 5 age aus sag sau usa
 sausage's 7 age aus e's ge' sag sau usa
 sausages 6 age aus ges sag sau usa
 sauted 4 aut sau ted ute
-sauté 4 aut sau té ut�
-sauté's 6 aut sau té ut� �'s é'
-sautéed 6 aut sau té ut� �ed ée
-sautéing 7 aut ing sau té ut� �in éi
-sautés 5 aut sau té ut� és
+sauté 4 aut sau té ut�
+sauté's 6 aut sau té ut� �'s é'
+sautéed 6 aut sau té ut� �ed ée
+sautéing 7 aut ing sau té ut� �in éi
+sautés 5 aut sau té ut� és
 savage 4 age ava sav vag
 savage's 6 age ava e's ge' sav vag
 savaged 5 age ava ged sav vag
@@ -83906,9 +83906,9 @@ smuts 3 mut smu uts
 smuttier 6 ier mut smu tie tti utt
 smuttiest 7 est ies mut smu tie tti utt
 smutty 4 mut smu tty utt
-smörgåsbord 11 bor gå mö ord rg� sbo sm� �sb �rg ås ör
-smörgåsbord's 13 bor d's gå mö ord rd' rg� sbo sm� �sb �rg ås ör
-smörgåsbords 12 bor gå mö ord rds rg� sbo sm� �sb �rg ås ör
+smörgåsbord 11 bor gå mö ord rg� sbo sm� �sb �rg ås ör
+smörgåsbord's 13 bor d's gå mö ord rd' rg� sbo sm� �sb �rg ås ör
+smörgåsbords 12 bor gå mö ord rds rg� sbo sm� �sb �rg ås ör
 snack 3 ack nac sna
 snack's 5 ack ck' k's nac sna
 snacked 5 ack cke ked nac sna
@@ -84377,9 +84377,9 @@ soil's 4 il' l's oil soi
 soiled 4 ile led oil soi
 soiling 5 ili ing lin oil soi
 soils 3 ils oil soi
-soirée 5 ir� oir ré soi ée
-soirée's 7 e's ir� oir ré soi �e' ée
-soirées 6 ir� oir ré soi �es ée
+soirée 5 ir� oir ré soi ée
+soirée's 7 e's ir� oir ré soi �e' ée
+soirées 6 ir� oir ré soi �es ée
 sojourn 5 jou ojo our soj urn
 sojourn's 7 jou n's ojo our rn' soj urn
 sojourned 7 jou ned ojo our rne soj urn
@@ -84700,9 +84700,9 @@ sou'wester 8 'we est ou' sou ste ter u'w wes
 soubriquet 8 bri iqu oub que riq sou ubr uet
 soubriquet's 10 bri et' iqu oub que riq sou t's ubr uet
 soubriquets 9 bri ets iqu oub que riq sou ubr uet
-soufflé 6 ffl fl� lé ouf sou uff
-soufflé's 8 ffl fl� lé ouf sou uff �'s é'
-soufflés 7 ffl fl� lé ouf sou uff és
+soufflé 6 ffl fl� lé ouf sou uff
+soufflé's 8 ffl fl� lé ouf sou uff �'s é'
+soufflés 7 ffl fl� lé ouf sou uff és
 sough 3 oug sou ugh
 sough's 5 gh' h's oug sou ugh
 soughed 5 ghe hed oug sou ugh
@@ -84746,9 +84746,9 @@ soupiest 6 est ies oup pie sou upi
 souping 5 ing oup pin sou upi
 soups 3 oup sou ups
 soupy 3 oup sou upy
-soupçon 6 oup pç sou up� �on ço
-soupçon's 8 n's on' oup pç sou up� �on ço
-soupçons 7 ons oup pç sou up� �on ço
+soupçon 6 oup pç sou up� �on ço
+soupçon's 8 n's on' oup pç sou up� �on ço
+soupçons 7 ons oup pç sou up� �on ço
 sour 2 our sou
 sour's 4 our r's sou ur'
 source 4 our rce sou urc
@@ -89033,9 +89033,9 @@ systemic's 8 c's emi ic' mic ste sys tem yst
 systemics 7 emi ics mic ste sys tem yst
 systems 5 ems ste sys tem yst
 systolic 6 lic oli sto sys tol yst
-séance 5 anc nce sé �an éa
-séance's 7 anc ce' e's nce sé �an éa
-séances 6 anc ces nce sé �an éa
+séance 5 anc nce sé �an éa
+séance's 7 anc ce' e's nce sé �an éa
+séances 6 anc ces nce sé �an éa
 t
 tab 1 tab
 tab's 3 ab' b's tab
@@ -91621,7 +91621,7 @@ touchstone 8 chs hst one ouc sto ton tou uch
 touchstone's 10 chs e's hst ne' one ouc sto ton tou uch
 touchstones 9 chs hst nes one ouc sto ton tou uch
 touchy 4 chy ouc tou uch
-touché 5 ch� hé ouc tou uch
+touché 5 ch� hé ouc tou uch
 tough 3 oug tou ugh
 tough's 5 gh' h's oug tou ugh
 toughen 5 ghe hen oug tou ugh
@@ -95864,9 +95864,9 @@ victualing 8 ali ctu ict ing lin tua ual vic
 victualled 8 all ctu ict led lle tua ual vic
 victualling 9 all ctu ict ing lin lli tua ual vic
 victuals 6 als ctu ict tua ual vic
-vicuña 5 cu� icu uñ vic ña
-vicuña's 7 a's cu� icu uñ vic �a' ña
-vicuñas 6 cu� icu uñ vic �as ña
+vicuña 5 cu� icu uñ vic ña
+vicuña's 7 a's cu� icu uñ vic �a' ña
+vicuñas 6 cu� icu uñ vic �as ña
 video 3 deo ide vid
 video's 5 deo eo' ide o's vid
 videocassette 11 ass cas deo eoc ett ide oca set sse tte vid
@@ -99152,20 +99152,20 @@ zwieback's 8 ack bac ck' eba ieb k's wie zwi
 zygote 4 got ote ygo zyg
 zygote's 6 e's got ote te' ygo zyg
 zygotes 5 got ote tes ygo zyg
-Ångström 8 gst ngs rö str tr� �ng Ån öm
-éclair 5 air cla lai �cl éc
-éclair's 7 air cla ir' lai r's �cl éc
-éclairs 6 air cla irs lai �cl éc
-éclat 4 cla lat �cl éc
-éclat's 6 at' cla lat t's �cl éc
-élan 3 lan �la él
-élan's 5 an' lan n's �la él
-émigré 6 gr� igr mig ré �mi ém
-émigré's 8 gr� igr mig ré �'s �mi é' ém
-émigrés 7 gr� igr mig ré �mi ém és
-épée 4 pé �p� ée ép
-épée's 6 e's pé �e' �p� ée ép
-épées 5 pé �es �p� ée ép
-étude 4 tud ude �tu ét
-étude's 6 de' e's tud ude �tu ét
-études 5 des tud ude �tu ét
+Ångström 8 gst ngs rö str tr� �ng Ån öm
+éclair 5 air cla lai �cl éc
+éclair's 7 air cla ir' lai r's �cl éc
+éclairs 6 air cla irs lai �cl éc
+éclat 4 cla lat �cl éc
+éclat's 6 at' cla lat t's �cl éc
+élan 3 lan �la él
+élan's 5 an' lan n's �la él
+émigré 6 gr� igr mig ré �mi ém
+émigré's 8 gr� igr mig ré �'s �mi é' ém
+émigrés 7 gr� igr mig ré �mi ém és
+épée 4 pé �p� ée ép
+épée's 6 e's pé �e' �p� ée ép
+épées 5 pé �es �p� ée ép
+étude 4 tud ude �tu ét
+étude's 6 de' e's tud ude �tu ét
+études 5 des tud ude �tu ét
