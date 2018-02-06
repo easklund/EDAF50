@@ -38,7 +38,7 @@ trigrams: pre
 #print_argv: print_argv.o
 
 pre: pre.o
-spell: dictionary.o word.o
+spell: dictionary.o word.o spell.o
 
 # Phony targets
 .PHONY: all test clean distclean
