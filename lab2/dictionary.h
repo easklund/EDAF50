@@ -12,8 +12,11 @@ public:
 	bool contains(const std::string& word) const;
 	std::vector<std::string> get_suggestions(const std::string& word) const;
 private:
-	std::unordered_set<std::string> words;
+	std::unordered_set<std::string> words_set;
 	std::vector<Word> words[25];
+	void  add_trigram_suggestions(std::vector<std::string>& suggestions, std::string& word) const;
+	void  rank_suggestions(std::vector<std::string>& suggestions, std::string& word) const;
+	void  trim_suggestions(std::vector<std::string>& suggestions) const;
 };
 
 #endif

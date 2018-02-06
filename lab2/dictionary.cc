@@ -4,6 +4,7 @@
 #include <iostream>
 #include <algorithm>
 #include <unordered_set>
+#include <sstream>
 #include "word.h"
 #include "dictionary.h"
 
@@ -12,21 +13,29 @@ using std::vector;
 using std::unordered_set;
 using std::ifstream;
 using std::cout;
-
-
+using std::stringstream;
 
 Dictionary::Dictionary() {
-	words = unordered_set<string>();
+	words_set = unordered_set<string>();
 	ifstream infile("words.txt");
-	string wordline;
 	for(string line; getline(infile, line);){
-		wordline = line.substr(0, line.find(" "));
-		words.insert(wordline);
+		string wordline;
+		string word;
+		vector<string> trigrams;
+		stringstream ss(line);
+		ss >> wordline;
+		word = wordline;
+		words_set.insert(wordline);
+		ss >> wordline;
+		while(ss >> wordline){
+			trigrams.push_back(wordline);
+		}
+		words[word.length()].push_back(Word(word, trigrams));
 	}
 }
 
 bool Dictionary::contains(const string& word) const {
-	if(words.count(word) > 0){
+	if(words_set.count(word) > 0){
 		return true;
 	}
 	return false;
@@ -35,4 +44,16 @@ bool Dictionary::contains(const string& word) const {
 vector<string> Dictionary::get_suggestions(const string& word) const {
 	vector<string> suggestions;
 	return suggestions;
+}
+
+void Dictionary::add_trigram_suggestions(std::vector<std::string>& suggestions, std::string& word) const {
+
+}
+
+void Dictionary::rank_suggestions(std::vector<std::string>& suggestions, std::string& word) const {
+
+}
+
+void Dictionary::trim_suggestions(std::vector<std::string>& suggestions) const {
+
 }
