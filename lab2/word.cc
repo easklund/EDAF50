@@ -12,11 +12,11 @@ string Word::get_word() const {
 	return word;
 }
 
-unsigned int Word::get_matches(const vector<string>& t) const {
+unsigned int Word::get_matches(const vector<string>& ts) const {
 	unsigned int matches = 0;
-	for(auto &t : t){
-		for(auto &trigrams : trigrams){
-			if(!t.compare(trigrams)){
+	for(auto &t : ts){
+		for(auto &trigram : trigrams){
+			if(!t.compare(trigram)){
 				matches++;
 			}
 		}
