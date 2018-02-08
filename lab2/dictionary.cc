@@ -37,10 +37,7 @@ Dictionary::Dictionary() {
 }
 
 bool Dictionary::contains(const string& word) const {
-	if(words_set.count(word) > 0){
-		return true;
-	}
-	return false;
+	return words_set.count(word);
 }
 
 vector<string> Dictionary::get_suggestions(const string& word) const {

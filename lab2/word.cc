@@ -20,7 +20,6 @@ unsigned int Word::get_matches(const vector<string>& t) const {
 				matches++;
 			}
 		}
-
 	}
 	return matches;
 }
