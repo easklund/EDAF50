@@ -21,7 +21,7 @@ LDFLAGS =   -g
 #LDFLAGS +=  -stdlib=libc++
 
 # Targets
-PROGS =  test_tag_remover date_test prime_test
+PROGS =  test_tag_remover date_test prime_test to_string
 
 all: $(PROGS)
 
@@ -34,6 +34,9 @@ datetest: date_test
 primetest: prime_test
 	./prime_test
 
+tostringtest: to_string
+	./to_string
+
 #datetest: date_test
 #	./date_test
 
@@ -41,6 +44,7 @@ primetest: prime_test
 test_tag_remover: tagRemover.o test_tag_remover.o
 date_test: date_test.o date.o
 prime_test: prime_test.o prime.o
+to_string: to_string.o date.o
 
 #pre: pre.o
 #spell: dictionary.o word.o spell.o
