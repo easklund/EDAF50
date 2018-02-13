@@ -9,9 +9,10 @@ class Prime {
 
 public:
 	string primesUnderN(const int n);
-	string largestPrimeUnderN(const int n); 
+	int largestPrimeUnderN(const int n);
+	string getPrimeLetters();
 private:
-
+	string primeLetters; //string with example CCPPPPCCCCPPCPCP
 };
 
 #endif
