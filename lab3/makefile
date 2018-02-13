@@ -21,7 +21,7 @@ LDFLAGS =   -g
 #LDFLAGS +=  -stdlib=libc++
 
 # Targets
-PROGS =  test_tag_remover date_test
+PROGS =  test_tag_remover date_test prime_test
 
 all: $(PROGS)
 
@@ -31,16 +31,16 @@ tagtest: test_tag_remover
 datetest: date_test
 	./date_test
 
+primetest: prime_test
+	./prime_test
+
 #datetest: date_test
 #	./date_test
 
 # Targets rely on implicit rules for compiling and linking
 test_tag_remover: tagRemover.o test_tag_remover.o
 date_test: date_test.o date.o
-#hello: hello.o
-#ltest: ltest.o list.o
-#test_coding: test_coding.o coding.o
-#print_argv: print_argv.o
+prime_test: prime_test.o prime.o
 
 #pre: pre.o
 #spell: dictionary.o word.o spell.o
