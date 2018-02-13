@@ -1,3 +1,10 @@
+#include "prime.h"
+#include <iostream>
+
+using std::cout;
+
 int main(){
-	return 0;
+	Prime p = Prime();
+	string results = p.primesUnderN(200);
+	cout << results;
 }
