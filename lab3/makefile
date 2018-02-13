@@ -37,17 +37,11 @@ primetest: prime_test
 tostringtest: to_string
 	./to_string
 
-#datetest: date_test
-#	./date_test
-
 # Targets rely on implicit rules for compiling and linking
 test_tag_remover: tagRemover.o test_tag_remover.o
 date_test: date_test.o date.o
 prime_test: prime_test.o prime.o
 to_string: to_string.o date.o
-
-#pre: pre.o
-#spell: dictionary.o word.o spell.o
 
 # Phony targets
 .PHONY: all test clean distclean
