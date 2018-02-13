@@ -1,12 +1,23 @@
 #include <iostream>
 #include <sstream>
+#include <stdexcept>
 #include "date.h"
 
+using std::invalid_argument;
 using std::ostringstream;
 using std::istringstream;
 using std::string;
 using std::endl;
 using std::cout;
+
+bool checkNumbers(string& s){
+	for(unsigned int i = 0; i < s.length(); i++){
+		if(!isdigit(s[i]) && s[i] != '-' && s[i] != '.'){
+			return false;
+		}
+	}
+	return true;
+}
 
 template <class T>
 string toString(T& t){
@@ -17,6 +28,9 @@ string toString(T& t){
 
 template <class T>
 T stringCast(string& s){
+	if(!checkNumbers(s)){
+		throw invalid_argument("Received letter, wanted only numbers(or . -)");
+	}
 	istringstream iss(s);
 	T t;
 	iss >> t;
@@ -57,36 +71,48 @@ void testDateToString(){
 }
 
 void testStringToDouble(){
-	string test = "1.222";
-	double d = stringCast<double>(test);
-	double correct = 1.222;
-	if(d == correct){
-		cout << "testStringToDouble Passed" << endl;
-	} else {
-		cout << "testStringToDouble Failed" << endl;
+	try{
+		string test = "1.222";
+		double d = stringCast<double>(test);
+		double correct = 1.222;
+		if(d == correct){
+			cout << "testStringToDouble Passed" << endl;
+		} else {
+			cout << "testStringToDouble Failed" << endl;
+		}
+	} catch(invalid_argument& e){
+		cout << e.what() << endl;
 	}
 }
 
 void testStringToInt(){
-	string test = "1337";
-	int d = stringCast<int>(test);
-	int correct = 1337;
-	if(d == correct){
-		cout << "testStringToInt Passed" << endl;
-	} else {
-		cout << "testStringToInt Failed" << endl;
+	try{
+		string test = "1337";
+		int d = stringCast<int>(test);
+		int correct = 1337;
+		if(d == correct){
+			cout << "testStringToInt Passed" << endl;
+		} else {
+			cout << "testStringToInt Failed" << endl;
+		}
+	} catch(invalid_argument& e){
+		cout << e.what() << endl;
 	}
 }
 
 //Detta testet antar att toString funkar
 void testStringToDate(){
-	string test = "1994-03-31";
-	Date d = stringCast<Date>(test);
-	string correct = toString(d);
-	if(test == correct){
-		cout << "testStringToDate Passed" << endl;
-	} else {
-		cout << "testStringToDate Failed" << endl;
+	try{
+		string test = "1994-03-31";
+		Date d = stringCast<Date>(test);
+		string correct = toString(d);
+		if(test == correct){
+			cout << "testStringToDate Passed" << endl;
+		} else {
+			cout << "testStringToDate Failed" << endl;
+		}
+	} catch(invalid_argument& e){
+		cout << e.what() << endl;
 	}
 }
 
