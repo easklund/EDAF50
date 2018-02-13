@@ -7,13 +7,11 @@
 using namespace std;
 using std::regex;
 
-//Den här fungerar inte som väntat
 TagRemover::TagRemover(istream& is){
-	stringstream ss;
-	while(is){
-		ss << is;
+	string line;
+	while(getline(is, line)){
+		noHtml += line + "\n";
 	}
-	noHtml = ss.str();
 	removeHtml();
 	fixSpecialChars();
 }
@@ -28,7 +26,6 @@ string TagRemover::getText() const {
   	return noHtml;
 }
 
-//Den här fungerar inte som väntat
 void TagRemover::print(ostream& os){
 	os << noHtml;
 }
