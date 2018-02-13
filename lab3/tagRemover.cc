@@ -1,17 +1,16 @@
+#include "tagRemover.h"
+#include <iostream>
 
-
-TagRemover::TagRemover(const string& s) {
-  withHtml = s;
-  noHtml tr.remove(s);
+TagRemover::TagRemover(const string& s): withHtml(s) {
+  noHtml tr.remove(noHtml);
 }
 
 string TagRemover::getText() const {
-  return s;
+  return noHtml;
 }
 
-void TagRemover::print() const {
+void TagRemover::print(const string s) const {
 
-	return 0;
 }
 
 void TagRemover::remove(const string& s){

@@ -21,15 +21,14 @@ LDFLAGS =   -g
 #LDFLAGS +=  -stdlib=libc++
 
 # Targets
-PROGS =  spell
+PROGS =  test_tag_remover
 
 all: $(PROGS)
 
-test: spell
-	./spell
+test: test_tag_remover
+	./test_tag_remover
 
-trigrams: pre
-	./pre
+
 
 # Targets rely on implicit rules for compiling and linking
 #hello: hello.o
@@ -37,8 +36,8 @@ trigrams: pre
 #test_coding: test_coding.o coding.o
 #print_argv: print_argv.o
 
-pre: pre.o
-spell: dictionary.o word.o spell.o
+
+test: test_tag_remover.o
 
 # Phony targets
 .PHONY: all test clean distclean

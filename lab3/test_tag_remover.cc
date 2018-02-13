@@ -1,4 +1,6 @@
 #include "tagRemover.h"
+#include <string>
+#include <iostream>
 
 using std::string;
 using std::cout;
@@ -19,4 +21,5 @@ void testTagRemove() {
 
 int main() {
   testTagRemove();
+  return 0;
 }
