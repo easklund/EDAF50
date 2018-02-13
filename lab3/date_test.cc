@@ -6,6 +6,7 @@ using std::cout;
 using std::endl;
 using std::setw;
 using std::setfill;
+using std::cin;
 
 /*
  * Prints the date d in the format yyyy-mm-dd. You shall replace this
@@ -21,7 +22,7 @@ void print(const Date& d) {
 int main() {
 	// Check input and output of dates. Uncomment the following when you 
 	// have added operator>> and operator<<.
-	/*
+	
 	bool cont = true;
 	while (cont) {
 		cout << "Type a date: ";
@@ -30,7 +31,7 @@ int main() {
 		if (cin.eof()) {
 			cont = false;
 		} else if (!cin.good()) {
-			cout << "Wrong input format" << endl;
+			cout << "Wrong input format, or non-existant date" << endl;
 			// restore stream state and ignore the rest of the line
 			cin.clear();
 			cin.ignore(10000, '\n');
@@ -39,7 +40,7 @@ int main() {
 			cout << "Output: " << aDate << endl;
 		}
 	}
-	*/
+	
 	
 	// Check 'next' by creating an object describing today's date, then
 	// printing dates more than a month ahead

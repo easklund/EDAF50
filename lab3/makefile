@@ -36,7 +36,7 @@ datetest: date_test
 
 # Targets rely on implicit rules for compiling and linking
 test_tag_remover: tagRemover.o test_tag_remover.o
-date_test: date.o
+date_test: date_test.o date.o
 #hello: hello.o
 #ltest: ltest.o list.o
 #test_coding: test_coding.o coding.o
