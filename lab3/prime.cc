@@ -14,10 +14,10 @@ string Prime::primesUnderN(const int n){
 	for(int i = 2; i <= n; i++){
 		primeLetters[i] = 'P';
 	}
-	for(int p = 3; p<n-1; p++){
+	for(int p = 2; p < n; p++){
 		if(primeLetters[p] == 'P'){
-			for(int i = p*2; i<=n; i += p){
-				primeLetters[p] = 'C';
+			for(int i = p*2; i < n; i += p){
+				primeLetters[i] = 'C';
 			}
 		}
 	}
