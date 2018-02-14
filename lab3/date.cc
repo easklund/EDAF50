@@ -70,7 +70,7 @@ istream& operator>>(istream& is, Date& d){
 	if(count == 2){
 		string year = line.substr(0, 4);
 		string month = line.substr(5, 2);
-		string day = line.substr(8, 2);
+		string day = line.substr(8);
 		if(year.find('-') != string::npos){ // Kolla att år är korrekt
 			is.setstate (ios_base::failbit);
 			return is;
@@ -81,15 +81,15 @@ istream& operator>>(istream& is, Date& d){
 			return is;
 		}
 		d.month = stoi(month);
-		if(month.find('-') != string::npos || stoi(day) > Date::daysPerMonth[stoi(month)-1]){ //Kolla dag
+		if(month.find('-') != string::npos || stoi(day) > Date::daysPerMonth[d.month-1]){ //Kolla dag
 			is.setstate (ios_base::failbit);
 			return is;
 		}
 		d.day = stoi(day);
 	} else{
+		cout << "Wrong format, expected XXXX-XX-XX" << endl;
 		is.setstate (ios_base::failbit);
 		return is;
-		cout << "Wrong format, expected XXXX-XX-XX" << endl;
 	}
 	return is; //to get rid of warning
 }

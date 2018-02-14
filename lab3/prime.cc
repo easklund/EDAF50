@@ -25,16 +25,11 @@ string Prime::primesUnderN(const int n){
 }
 
 int Prime::largestPrimeUnderN(const int n){
-	int prime;
 	primeLetters = string(n+1, 'P'); //populate string
 	
 	findPrimes(n);
-	for(int p = 2; p<=n; p++){	//gets largest prime
-		if(primeLetters[p] == 'P'){
-			prime = p;	
-		}
-	}
 
+	int prime = primeLetters.rfind('P');
 	return prime;
 }
 
@@ -45,9 +40,7 @@ string Prime::getPrimeLetters(){
 void Prime::findPrimes(const int n){
 	primeLetters[0] = 'C';
 	primeLetters[1] = 'C';
-	for(int i = 2; i <= n; i++){
-		primeLetters[i] = 'P';
-	}
+
 	for(int p = 2; p*p< n; p ++){
 		if(primeLetters[p] == 'P'){
 			for(int i = p*2; i <= n; i += p){

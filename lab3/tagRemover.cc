@@ -36,12 +36,12 @@ void TagRemover::removeHtml(){
 }
 
 void TagRemover::fixSpecialChars(){
-	regex tagslt("&lt*");
+	regex tagslt("&lt;");
 	noHtml = regex_replace(noHtml, tagslt, "<");
-	regex tagsgt("&gt*");
+	regex tagsgt("&gt;");
 	noHtml = regex_replace(noHtml, tagsgt, ">");
-	regex tagsnbsp("&nbsp*");
+	regex tagsnbsp("&nbsp;");
 	noHtml = regex_replace(noHtml, tagsnbsp, " ");
-	regex tagsamp("&amp*");
+	regex tagsamp("&amp;");
 	noHtml = regex_replace(noHtml, tagsamp, "&");
 }
