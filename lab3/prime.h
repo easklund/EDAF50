@@ -12,6 +12,7 @@ public:
 	int largestPrimeUnderN(const int n);
 	string getPrimeLetters();
 private:
+	void findPrimes(const int n);
 	string primeLetters; //string with example CCPPPPCCCCPPCPCP
 };
 
