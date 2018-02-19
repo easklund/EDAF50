@@ -39,9 +39,9 @@ int main() {
 	/*
 	 * Test the map name server.
 	 */
-	// MNS mns;
-	// test(mns);
-	// cout << "Map passed ..." << endl;
+	MNS mns;
+	test(mns);
+	cout << "Map passed ..." << endl;
 
 	/*
 	 * Test the unordered map name server.
