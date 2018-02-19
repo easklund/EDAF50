@@ -2,12 +2,12 @@
 #include "nameserverinterface.h"
 #include "vns.h"
 
-using std::pair;
+#include <iostream>     // std::cout
+#include <algorithm>    // std::find_if
+#include <vector>       // std::vector
 
 
 VNS::VNS() {}
-
-VNS::~VNS() {}
 
 
 /*
@@ -15,7 +15,7 @@ VNS::~VNS() {}
  * or address already exists.
  */
 void VNS::insert(const HostName& hn, const IPAddress& ip){
-
+  v.push_back(std::make_pair(hn, ip));
 }
 
 /*
@@ -24,7 +24,14 @@ void VNS::insert(const HostName& hn, const IPAddress& ip){
  * otherwise.
  */
 bool VNS::remove(const HostName& hn) {
-
+  // auto it = std::remove_if (v.begin(), v.end(),
+  //   [&hn](std::pair<HostName, IPAddress>& p){
+  //     return hn == p.first;
+  //   }
+  // );
+  // if(it != v.end()){
+  //   v.erase(it);
+  // }
 }
 
 /*
@@ -33,5 +40,9 @@ bool VNS::remove(const HostName& hn) {
  * server.
  */
 IPAddress VNS::lookup(const HostName& hn) const{
-
+  auto it = std::find_if (v.begin(), v.end(),
+    [hn](std::pair<HostName, IPAddress> p){
+      return hn == p.first;
+    }
+  );
 }
