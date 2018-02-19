@@ -1,7 +1,7 @@
 #include <string>
 #include "nameserverinterface.h"
 #include "umns.h"
-
+#include <unordered_map>
 
 UMNS::UMNS() {}
 
@@ -10,7 +10,7 @@ UMNS::UMNS() {}
  * or address already exists.
  */
 void UMNS::insert(const HostName& hn, const IPAddress& ip) {
-
+  umap.insert ( {{hn, ip}} );
 }
 
 /*
@@ -19,7 +19,10 @@ void UMNS::insert(const HostName& hn, const IPAddress& ip) {
  * otherwise.
  */
 bool UMNS::remove(const HostName& hn) {
-
+  if(umap.erase(hn) > 0){
+    return true;
+  }
+  return false;
 }
 
 /*
@@ -28,5 +31,10 @@ bool UMNS::remove(const HostName& hn) {
  * server.
  */
 IPAddress UMNS::lookup(const HostName& hn) const {
-
+  auto it = umap.find(hn);
+  if(it != umap.end()){
+    return it->second;
+  }else{
+    return NON_EXISTING_ADDRESS;
+  }
 }
