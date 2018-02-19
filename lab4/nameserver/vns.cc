@@ -24,14 +24,14 @@ void VNS::insert(const HostName& hn, const IPAddress& ip){
  * otherwise.
  */
 bool VNS::remove(const HostName& hn) {
-  // auto it = std::remove_if (v.begin(), v.end(),
-  //   [&hn](std::pair<HostName, IPAddress>& p){
-  //     return hn == p.first;
-  //   }
-  // );
-  // if(it != v.end()){
-  //   v.erase(it);
-  // }
+  auto it = remove_if (v.begin(), v.end(),
+    [&hn](const std::pair<HostName, IPAddress>& p){
+      return p.first == hn;
+    }
+  );
+  if(it != v.end()){
+    v.erase(it);
+  }
 }
 
 /*

@@ -25,7 +25,7 @@ PROGS =  nstest nstime vns hns mns umns
 
 all: $(PROGS)
 
-nstest: nstest
+nstes: nstest
 	./nstest
 
 nstime: nstime
@@ -45,6 +45,7 @@ umns: umns
 
 # Targets rely on implicit rules for compiling and linking
 nstest: nstest.o vns.o hns.o mns.o umns.o
+# nstime: nstime.o vns.o hns.o mns.o umns.o
 
 # Phony targets
 .PHONY: all test clean distclean
