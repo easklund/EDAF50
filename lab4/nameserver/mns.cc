@@ -33,8 +33,7 @@ bool MNS::remove(const HostName& hn) {
  * server.
  */
 IPAddress MNS::lookup(const HostName& hn) const {
-  std::map<HostName, IPAddress>::iterator it;
-  it = map.find(hn);
+  auto it = map.find(hn);
   if(it != map.end()){
     return it->second;
   }else{
