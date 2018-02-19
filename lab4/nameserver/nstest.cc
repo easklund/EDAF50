@@ -55,7 +55,7 @@ int main() {
 	 * The parameter to the constructor is the size of the
 	 * hash table.
 	 */
-	// HNS hns(4711);
-	// test(hns);
-	// cout << "Hash passed ..." << endl;
+	HNS hns(4711);
+	test(hns);
+	cout << "Hash passed ..." << endl;
 }
