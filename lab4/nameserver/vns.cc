@@ -31,7 +31,9 @@ bool VNS::remove(const HostName& hn) {
   );
   if(it != v.end()){
     v.erase(it);
+    return true;
   }
+  return false;
 }
 
 /*
@@ -45,4 +47,9 @@ IPAddress VNS::lookup(const HostName& hn) const{
       return hn == p.first;
     }
   );
+  if(it != v.end()){
+    return it->second;
+  }else{
+    return NON_EXISTING_ADDRESS;
+  }
 }
