@@ -11,8 +11,8 @@
 #include <cstddef>
 
 class BitReference {
-	// friend class BitsetIterator;
-public: 
+	friend class BitsetIterator;
+public:
 	BitReference(Bitset::BitStorage* pb, std::size_t p)
 	    : p_bits(pb), pos(p) {}
 

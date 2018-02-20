@@ -37,7 +37,7 @@ test2: bitsettest2
 # Targets rely on implicit rules for compiling and linking
 simplebitsettest: simplebitsettest.o simplebitset.o
 bitsettest1: bitsettest1.o bitreference.o bitset.o
-bitsettest2: bitsettest2.o bitreference.o bitset.o bititerator.o
+bitsettest2: bitsettest2.o bitreference.o bitset.o
 
 # Phony targets
 .PHONY: all test clean distclean
