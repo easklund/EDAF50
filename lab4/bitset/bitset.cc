@@ -18,9 +18,9 @@ BitReference Bitset::operator[](size_t pos) {
 
 
 Bitset::iterator Bitset::begin() {
-
+	return BitsetIterator(&bits, 0);
 }
 
 Bitset::iterator Bitset::end() {
-	
+	return BitsetIterator(&bits, BPW);
 }
