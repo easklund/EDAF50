@@ -8,4 +8,13 @@ encode
 decode
 test_argv
 tes_coding
+pre
+spell
+date_test
+test_tag_remover
+nstest
+nstime
+simplebitsettest
+bitsettest1
+bitsettest2
 *.dSYM
