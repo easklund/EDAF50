@@ -1,13 +1,17 @@
 .DS_Store
 *.o
 *.d
+*.a
 95bf5763251f491480a0c1e5b76a16d8-original.pdf
 
 hello
 encode
 decode
 test_argv
-tes_coding
+test_coding
+print_argv
+liblab
+liblab1
 pre
 spell
 date_test
@@ -17,4 +21,8 @@ nstime
 simplebitsettest
 bitsettest1
 bitsettest2
+out
+to_string
+nstest
+
 *.dSYM

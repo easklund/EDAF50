@@ -35,7 +35,7 @@ T stringCast(string& s){
 	T t;
 	iss >> t;
 	if(iss.fail()){
-		throw invalid_argument("Something went wrong");
+		throw invalid_argument("Something went wrong with istringstream");
 	}
 	return t;
 }
