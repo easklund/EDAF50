@@ -25,10 +25,10 @@ PROGS =  nstest nstime vns hns mns umns
 
 all: $(PROGS)
 
-nstes: nstest
+ns_test: nstest
 	./nstest
 
-nstime: nstime
+ns_time: nstime
 	./nstime
 
 vns: vns
