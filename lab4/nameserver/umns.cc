@@ -19,10 +19,7 @@ void UMNS::insert(const HostName& hn, const IPAddress& ip) {
  * otherwise.
  */
 bool UMNS::remove(const HostName& hn) {
-  if(umap.erase(hn) > 0){
-    return true;
-  }
-  return false;
+  return umap.erase(hn) > 0;
 }
 
 /*

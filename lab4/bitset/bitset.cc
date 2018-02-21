@@ -16,7 +16,6 @@ BitReference Bitset::operator[](size_t pos) {
 	return BitReference(&bits, pos);
 }
 
-
 Bitset::iterator Bitset::begin() {
 	return BitsetIterator(&bits, 0);
 }

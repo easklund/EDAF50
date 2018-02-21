@@ -18,12 +18,7 @@ BitReference& BitReference::operator=(const BitReference& rhs) {
 	// *** IMPLEMENT ***
 	// Same as operator=(bool), but the bit is picked from rhs
 	//
-	if (rhs) {
-		*p_bits |= 1L << rhs.pos;
-	} else {
-		*p_bits &= ~ (1L << rhs.pos);
-	}
-	return *this;
+	return *this = static_cast<bool>(rhs);
 }
 
 BitReference::operator bool() const {

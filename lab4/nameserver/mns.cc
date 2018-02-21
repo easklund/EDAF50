@@ -21,10 +21,7 @@ void MNS::insert(const HostName& hn, const IPAddress& ip) {
  * otherwise.
  */
 bool MNS::remove(const HostName& hn) {
-  if(map.erase (hn) > 0){
-    return true;
-  }
-  return false;
+  return map.erase (hn) > 0;
 }
 
 /*

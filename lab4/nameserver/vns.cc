@@ -15,7 +15,7 @@ VNS::VNS() {}
  * or address already exists.
  */
 void VNS::insert(const HostName& hn, const IPAddress& ip){
-  v.push_back(std::make_pair(hn, ip));
+  v.emplace_back(hn, ip);
 }
 
 /*
@@ -43,7 +43,7 @@ bool VNS::remove(const HostName& hn) {
  */
 IPAddress VNS::lookup(const HostName& hn) const{
   auto it = std::find_if (v.begin(), v.end(),
-    [hn](std::pair<HostName, IPAddress> p){
+    [hn](const std::pair<HostName, IPAddress>& p){
       return hn == p.first;
     }
   );
